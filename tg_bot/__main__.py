@@ -28,6 +28,13 @@ python-telegram-bot library ഉപയോഗിച്ചാണ്.... ഞാൻ �
 
 Using standard [Marie](http://telegram.dog/BanhammerMarie_bot) is always gonna be easier.
 എന്റെ ചേച്ചിയായ [Marie](http://telegram.dog/BanhammerMarie_bot) ഉപയോഗിക്കുന്നത് എല്ലായ്പ്പോഴും എളുപ്പമായിരിക്കും. മേരി ചേച്ചിക്ക് English മാത്രമേ അറിയൂ..
+[
+    InlineKeyboardButton('Source 😒', url='https://github.com/odysseusmax/animated-lamp')
+    InlineKeyboardButton('Project Channel', url='https://t.me/odbots')
+],
+[
+    InlineKeyboardButton('My Father', url='https://t.me/odysseusmax')
+]
 
 """
 
